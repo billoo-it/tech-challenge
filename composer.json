@@ -1,9 +1,13 @@
 {
     "$schema": "https://getcomposer.org/schema.json",
-    "name": "laravel/laravel",
+    "name": "billoo/tech-challenge",
     "type": "project",
-    "description": "The skeleton application for the Laravel framework.",
-    "keywords": ["laravel", "framework"],
+    "description": "Billoo Tech Challenge — Laravel starter project.",
+    "keywords": [
+        "billoo",
+        "laravel",
+        "challenge"
+    ],
     "license": "MIT",
     "require": {
         "php": "^8.2",
